@@ -1,3 +1,4 @@
+import Login from "./Login"
 import Navbar from "./Navbar"
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
        <h1>new project</h1>
        <Navbar/>
+       <Login/>
     </>
   )
 }
